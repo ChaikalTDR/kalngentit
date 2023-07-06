@@ -82,7 +82,7 @@ bash <(curl https://raw.githubusercontent.com/anamnich/zas/main/install-wings.sh
 ## TEMA
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/anamnich/Utama/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/ChaikalTDR/Utama/master/install.sh)
 ```
 
 ## ChaikalVCJ OFFICIAL
